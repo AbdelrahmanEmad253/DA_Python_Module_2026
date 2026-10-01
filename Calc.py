@@ -22,7 +22,7 @@
 # bypass the calculation and print a "Cannot divide by zero" error message.
 
 
-
+#third Commit
 while True:
     print("\n--- Basic Python Calculator ---")
     print("Options: +, -, *, /  (or type 'quit' to exit)")
